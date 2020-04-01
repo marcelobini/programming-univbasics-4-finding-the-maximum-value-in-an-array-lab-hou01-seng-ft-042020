@@ -9,4 +9,3 @@
   end
   max_value
 end
-end
